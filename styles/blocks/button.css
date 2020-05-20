@@ -1,0 +1,32 @@
+.button {
+  padding: 14px 24px;
+	font-size: 18px;
+	line-height: 22px;
+  border-radius: 5px;
+}
+
+.button_color_orange {
+  color: #f7941e;
+  border: 1px solid #f7941e;
+  background-color: transparent;
+}
+
+.button_color_white {
+  color: #fff;
+}
+
+.button_color_black {
+  color: #000;
+  background-color: transparent;
+  border: 1px solid #000;
+}
+
+.button_bgc_orange {
+  border: 1px solid #f7941e;
+  background-color: #F7941E;
+}
+
+.button_bgc_black {
+  background-color: #000;
+  border: 1px solid #000;
+}
